@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+tf.keras
+numpy
+transformers
+tensorflow
+pickle
