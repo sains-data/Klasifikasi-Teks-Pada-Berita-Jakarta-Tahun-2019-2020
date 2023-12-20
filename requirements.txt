@@ -5,4 +5,3 @@ tf.keras
 numpy
 transformers
 tensorflow
-pickle
