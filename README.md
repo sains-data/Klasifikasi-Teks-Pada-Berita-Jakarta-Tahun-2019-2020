@@ -1,4 +1,4 @@
-# Klasifikasi Teks Pada Judul Berita Jakarta
+# Klasifikasi Teks Pada Judul Berita
 Kelompok 5 RA Deep Learning
 Anggota :
 - Naomi Natasya 120450098
