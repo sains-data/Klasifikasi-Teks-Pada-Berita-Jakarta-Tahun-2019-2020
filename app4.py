@@ -21,7 +21,7 @@ def predict_sentiment(text, tokenizer, model, max_length):
     return prediction
 
 # Memuat model dan tokenizer (ganti dengan path yang benar)
-model, tokenizer = load_model_and_tokenizer("DEEP LEARNING_modelku.h5", "tokenizer.pickle")
+model, tokenizer = load_model_and_tokenizer("my_model.h5", "tokenizer.pickle")
 
 # Mengatur panjang maksimal berdasarkan training set
 max_length = 250  # Contoh, ganti dengan panjang yang sesuai
