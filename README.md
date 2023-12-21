@@ -46,6 +46,8 @@ https://klasifikasi-judul-berita.streamlit.app/
 
 ![Hasil Penginputan](https://github.com/sains-data/Klasifikasi-Teks-Pada-Judul-Berita/assets/105734822/970c167b-9e05-4f6a-bc50-7b55cc714653)
 
+### Tips: Pastikan kepala kolom bernamakan "teks" dan bukan kata lain. Jangan lupa untuk menghapus tanda koma (,) pada _dataset_ Excelnya sebelum diinput.
+
 # (EN) Text Classification on News Headlines Using Long Short Term Memory (LSTM)
 News is something that has always been one of the sources of facts for society. In terms of classifying it, RNN is needed to automate its work. The classification of news data is based on the issue and tonality (positive, negative, and neutral) of the news. The source of data collection is from Jakarta Open Data (https://data.jakarta.go.id/dataset?tags=Berita). With the LSTM method, the accuracy is up to 90% for uploading existing news titles. This makes RNN a viable tool for classifying news according to its content.
 
@@ -87,7 +89,7 @@ https://klasifikasi-judul-berita.streamlit.app/
 
 ![Hasil Penginputan](https://github.com/sains-data/Klasifikasi-Teks-Pada-Judul-Berita/assets/105734822/970c167b-9e05-4f6a-bc50-7b55cc714653)
 
-
+### Tips: Make sure the column head is "text" and not other words. Don't forget to remove the comma (,) in the Excel _dataset_ before inputting.
 
 
 
