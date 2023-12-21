@@ -5,3 +5,4 @@ tf.keras
 numpy
 transformers
 tensorflow
+openpyxl
